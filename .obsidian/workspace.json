@@ -178,6 +178,7 @@
   },
   "active": "4efdf785ebb05d72",
   "lastOpenFiles": [
+    "scripts/inbox-extract.bat",
     "📥 Inbox/conversations/processed",
     "📥 Inbox/conversations/README.md",
     "📥 Inbox/conversations",
@@ -196,7 +197,6 @@
     "docs/03-rules.md",
     "docs/02-routing.md",
     "docs/01-structure.md",
-    "shared/proposals",
     "CLAUDE.md"
   ]
 }
