@@ -1,0 +1,14 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/cache
+
+# Attachments (이미지, 동영상 — 용량 크므로 제외)
+🖼️ Attachments/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# 임시 파일
+*.tmp
+~$*
