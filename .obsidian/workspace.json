@@ -178,6 +178,7 @@
   },
   "active": "4efdf785ebb05d72",
   "lastOpenFiles": [
+    "📥 Inbox/conversations",
     "scripts/git-init-setup.ps1",
     "scripts/start-sync.bat",
     "scripts/auto-sync.ps1",
@@ -195,7 +196,6 @@
     "docs/01-structure.md",
     "shared/proposals",
     "shared/decisions",
-    "shared/conversations/2026/04",
     "CLAUDE.md"
   ]
 }
