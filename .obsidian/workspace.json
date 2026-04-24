@@ -178,6 +178,7 @@
   },
   "active": "4efdf785ebb05d72",
   "lastOpenFiles": [
+    "scripts/inbox-extract.ps1",
     "scripts/inbox-extract.bat",
     "📥 Inbox/conversations/processed",
     "📥 Inbox/conversations/README.md",
@@ -190,7 +191,6 @@
     "agents/archive",
     "agents/life",
     "agents/dev",
-    "agents",
     "shared/conversations/2026/04/2026-04-24-harness-orchestrator.md",
     "docs/05-roadmap.md",
     "docs/04-feedback-loop.md",
